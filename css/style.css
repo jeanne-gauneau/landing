@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-size: 20px;
+  font-family: "Playfair", serif;
+  margin: 20px;
+  color: white;
+}
+
+h1, h2, h3 {
+   font-family: "Playfair", serif;
+  font-weight: 900;
+  color: #53B2F0 ;
+}
+
+a {
+  text-decoration: none;
+}

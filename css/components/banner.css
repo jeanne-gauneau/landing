@@ -1,0 +1,15 @@
+.banner {
+  background-image: url(../../images/background.jpg);
+  padding: 60px 0px;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.banner h1 {
+  color: hotpink;
+  font-size: 50px;
+}
+
+
+
+
